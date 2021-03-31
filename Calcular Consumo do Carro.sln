@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcular Consumo do Carro", "Calcular Consumo do Carro.csproj", "{F1E96AE3-CD90-4CEF-BFA0-D466AEF8D7FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1E96AE3-CD90-4CEF-BFA0-D466AEF8D7FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E96AE3-CD90-4CEF-BFA0-D466AEF8D7FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E96AE3-CD90-4CEF-BFA0-D466AEF8D7FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E96AE3-CD90-4CEF-BFA0-D466AEF8D7FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D97C78E2-B069-439C-8CFB-3E8782E20B55}
+	EndGlobalSection
+EndGlobal

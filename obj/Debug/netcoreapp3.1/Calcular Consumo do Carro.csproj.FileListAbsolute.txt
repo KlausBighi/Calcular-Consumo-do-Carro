@@ -1,0 +1,15 @@
+C:\Users\klaus\source\repos\Calcular Consumo do Carro\bin\Debug\netcoreapp3.1\Calcular Consumo do Carro.exe
+C:\Users\klaus\source\repos\Calcular Consumo do Carro\bin\Debug\netcoreapp3.1\Calcular Consumo do Carro.deps.json
+C:\Users\klaus\source\repos\Calcular Consumo do Carro\bin\Debug\netcoreapp3.1\Calcular Consumo do Carro.runtimeconfig.json
+C:\Users\klaus\source\repos\Calcular Consumo do Carro\bin\Debug\netcoreapp3.1\Calcular Consumo do Carro.runtimeconfig.dev.json
+C:\Users\klaus\source\repos\Calcular Consumo do Carro\bin\Debug\netcoreapp3.1\Calcular Consumo do Carro.dll
+C:\Users\klaus\source\repos\Calcular Consumo do Carro\bin\Debug\netcoreapp3.1\Calcular Consumo do Carro.pdb
+C:\Users\klaus\source\repos\Calcular Consumo do Carro\obj\Debug\netcoreapp3.1\Calcular Consumo do Carro.csprojAssemblyReference.cache
+C:\Users\klaus\source\repos\Calcular Consumo do Carro\obj\Debug\netcoreapp3.1\Calcular_Consumo_do_Carro.CalcularConsumo.resources
+C:\Users\klaus\source\repos\Calcular Consumo do Carro\obj\Debug\netcoreapp3.1\Calcular Consumo do Carro.csproj.GenerateResource.cache
+C:\Users\klaus\source\repos\Calcular Consumo do Carro\obj\Debug\netcoreapp3.1\Calcular Consumo do Carro.AssemblyInfoInputs.cache
+C:\Users\klaus\source\repos\Calcular Consumo do Carro\obj\Debug\netcoreapp3.1\Calcular Consumo do Carro.AssemblyInfo.cs
+C:\Users\klaus\source\repos\Calcular Consumo do Carro\obj\Debug\netcoreapp3.1\Calcular Consumo do Carro.csproj.CoreCompileInputs.cache
+C:\Users\klaus\source\repos\Calcular Consumo do Carro\obj\Debug\netcoreapp3.1\Calcular Consumo do Carro.dll
+C:\Users\klaus\source\repos\Calcular Consumo do Carro\obj\Debug\netcoreapp3.1\Calcular Consumo do Carro.pdb
+C:\Users\klaus\source\repos\Calcular Consumo do Carro\obj\Debug\netcoreapp3.1\Calcular Consumo do Carro.genruntimeconfig.cache

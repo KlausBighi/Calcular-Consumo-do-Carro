@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calcular Consumo do Carro/1.0.0": {
+        "runtime": {
+          "Calcular Consumo do Carro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calcular Consumo do Carro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
